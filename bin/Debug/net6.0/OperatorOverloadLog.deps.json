@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OperatorOverloadLog/1.0.0": {
+        "runtime": {
+          "OperatorOverloadLog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperatorOverloadLog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

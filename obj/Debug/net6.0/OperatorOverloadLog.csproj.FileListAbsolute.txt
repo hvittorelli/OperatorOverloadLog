@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\obj\Debug\net6.0\OperatorOverloadLog.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\obj\Debug\net6.0\OperatorOverloadLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\obj\Debug\net6.0\OperatorOverloadLog.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\obj\Debug\net6.0\OperatorOverloadLog.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\obj\Debug\net6.0\OperatorOverloadLog.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\bin\Debug\net6.0\OperatorOverloadLog.exe
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\bin\Debug\net6.0\OperatorOverloadLog.deps.json
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\bin\Debug\net6.0\OperatorOverloadLog.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\bin\Debug\net6.0\OperatorOverloadLog.dll
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\bin\Debug\net6.0\OperatorOverloadLog.pdb
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\obj\Debug\net6.0\OperatorOverloadLog.dll
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\obj\Debug\net6.0\refint\OperatorOverloadLog.dll
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\obj\Debug\net6.0\OperatorOverloadLog.pdb
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\obj\Debug\net6.0\OperatorOverloadLog.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\OperatorOverloadLog\OperatorOverloadLog\obj\Debug\net6.0\ref\OperatorOverloadLog.dll
